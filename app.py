@@ -5,3 +5,5 @@ def hello():
     print("Hello, Git!")
 
 if __name__ == "__main__":
+def goodbye():
+    """Say goodbye"""
